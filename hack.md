@@ -1,3 +1,3 @@
 # Hack
 
-Credits
+Credits: [
