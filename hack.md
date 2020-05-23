@@ -1,3 +1,3 @@
 # Hack
 
-Credits: [Hack Tut
+Credits: [Hack Tutor
