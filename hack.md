@@ -1,3 +1,3 @@
 # Hack
 
-Credits: [Hack Tutorial](http://hacklang.org/tutor
+Credits: [Hack Tutorial](http://hacklang.org/tutori
