@@ -2,4 +2,4 @@
 
 Credits: [Hack Tutorial](http://hacklang.org/tutorial.html)
 
-Hack files start with the following for [pa
+Hack files start with the following for [partia
