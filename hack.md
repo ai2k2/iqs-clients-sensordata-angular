@@ -2,4 +2,4 @@
 
 Credits: [Hack Tutorial](http://hacklang.org/tutorial.html)
 
-Hack files start with the following for [partial mode](https://docs.hhvm.com/h
+Hack files start with the following for [partial mode](https://docs.hhvm.com/ha
