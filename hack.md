@@ -2,4 +2,4 @@
 
 Credits: [Hack Tutorial](http://hacklang.org/tutorial.html)
 
-Hack files start with the following for [partial mode](https://docs.hhvm.com/hack/typec
+Hack files start with the following for [partial mode](https://docs.hhvm.com/hack/typechec
