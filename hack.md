@@ -3,3 +3,5 @@
 Credits: [Hack Tutorial](http://hacklang.org/tutorial.html)
 
 Hack files start with the following for [partial mode](https://docs.hhvm.com/hack/typechecker/modes#partial-mode):
+
+``
