@@ -6,4 +6,4 @@ Hack files start with the following for [partial mode](https://docs.hhvm.com/hac
 
 ```
 <?hh
-`
+```
