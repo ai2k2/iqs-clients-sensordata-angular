@@ -8,4 +8,4 @@ Hack files start with the following for [partial mode](https://docs.hhvm.com/hac
 <?hh
 ```
 
-For [strict mode](https://docs.hhvm.com/hack/typechecker/mode
+For [strict mode](https://docs.hhvm.com/hack/typechecker/modes#s
