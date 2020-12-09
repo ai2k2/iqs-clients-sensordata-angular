@@ -14,4 +14,4 @@ For [strict mode](https://docs.hhvm.com/hack/typechecker/modes#strict-mode):
 <?hh // strict
 ```
 
-Hack supports typing for function arguments and re
+Hack supports typing for function arguments and return
