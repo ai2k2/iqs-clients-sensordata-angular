@@ -17,3 +17,4 @@ For [strict mode](https://docs.hhvm.com/hack/typechecker/modes#strict-mode):
 Hack supports typing for function arguments and return values:
 
 ```
+<?
