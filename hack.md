@@ -19,4 +19,4 @@ Hack supports typing for function arguments and return values:
 ```
 <?hh
 
-function incr
+function incremen
