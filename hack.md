@@ -19,4 +19,5 @@ Hack supports typing for function arguments and return values:
 ```
 <?hh
 
-function increment(int $number): int 
+function increment(int $number): int {
+  
