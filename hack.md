@@ -24,3 +24,4 @@ function increment(int $number): int {
 }
 ```
 
+Func
