@@ -24,4 +24,4 @@ function increment(int $number): int {
 }
 ```
 
-Function argu
+Function argume
