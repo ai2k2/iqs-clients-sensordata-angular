@@ -24,4 +24,4 @@ function increment(int $number): int {
 }
 ```
 
-Function arguments can allow for n
+Function arguments can allow for nu
