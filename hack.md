@@ -27,4 +27,4 @@ function increment(int $number): int {
 Function arguments can allow for null:
 
 ```
-<?h
+<?hh
