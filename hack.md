@@ -28,3 +28,5 @@ Function arguments can allow for null:
 
 ```
 <?hh
+
+fu
