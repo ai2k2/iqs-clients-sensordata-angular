@@ -29,4 +29,4 @@ Function arguments can allow for null:
 ```
 <?hh
 
-function dump(?int $arg): vo
+function dump(?int $arg): void {
