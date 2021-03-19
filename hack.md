@@ -30,3 +30,4 @@ Function arguments can allow for null:
 <?hh
 
 function dump(?int $arg): void {
+   
