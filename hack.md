@@ -30,4 +30,4 @@ Function arguments can allow for null:
 <?hh
 
 function dump(?int $arg): void {
-    var_dump(
+    var_dump($
