@@ -31,3 +31,4 @@ Function arguments can allow for null:
 
 function dump(?int $arg): void {
     var_dump($arg);
+}
