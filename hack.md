@@ -33,4 +33,4 @@ function dump(?int $arg): void {
     var_dump($arg);
 }
 
-function test_dump(): void 
+function test_dump(): void {
