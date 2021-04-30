@@ -36,4 +36,4 @@ function dump(?int $arg): void {
 function test_dump(): void {
     dump(null);
 }
-`
+``
