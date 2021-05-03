@@ -38,4 +38,4 @@ function test_dump(): void {
 }
 ```
 
-## Coding standa
+## Coding standards
