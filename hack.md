@@ -40,4 +40,4 @@ function test_dump(): void {
 
 ## Coding standards
 
-See: ht
+See: http
