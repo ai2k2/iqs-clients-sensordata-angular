@@ -40,4 +40,4 @@ function test_dump(): void {
 
 ## Coding standards
 
-See: https://secure.phabric
+See: https://secure.phabricator
