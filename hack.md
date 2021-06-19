@@ -40,4 +40,4 @@ function test_dump(): void {
 
 ## Coding standards
 
-See: https://secure.phabricator.com/book/phabcontrib/article/php_coding_st
+See: https://secure.phabricator.com/book/phabcontrib/article/php_coding_sta
