@@ -10,3 +10,7 @@ Access the help:
     $ hhvm help
 
 ## Start the debugger
+
+Run the REPL:
+
+    $ hhvm -m debug
