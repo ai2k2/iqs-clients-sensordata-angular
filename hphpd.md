@@ -8,3 +8,5 @@
 Access the help:
 
     $ hhvm help
+
+## Start the debugger
