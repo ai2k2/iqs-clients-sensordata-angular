@@ -18,3 +18,7 @@ Run the REPL:
 Debug a local script:
 
     $ hhvm -m debug script.php
+
+Debug on a remote server:
+
+    $ hhvm -m debug -h remote.com
