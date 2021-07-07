@@ -26,3 +26,7 @@ Debug on a remote server:
 You can also connect from within the `hphpd` session:
 
     hphpd> machine connect remote.com
+
+## Breakpoints
+
+Set a breakpoint at line 10:
