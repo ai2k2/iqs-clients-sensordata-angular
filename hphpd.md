@@ -34,3 +34,7 @@ Set a breakpoint at line 10:
     hphpd> [b]reak script.php:10
 
 Set a breakpoint at a function:
+
+    hphpd> [b]reak foo()
+
+List all breakpoints:
