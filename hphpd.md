@@ -42,3 +42,5 @@ List all breakpoints:
     hphpd> [b]reak [l]ist
 
 Clear the breakpoint at the listed index:
+
+    hphpd> [b]reak [c]lear index
