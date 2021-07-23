@@ -38,3 +38,7 @@ Set a breakpoint at a function:
     hphpd> [b]reak foo()
 
 List all breakpoints:
+
+    hphpd> [b]reak [l]ist
+
+Clear the breakpoint at the listed index:
