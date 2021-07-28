@@ -48,3 +48,5 @@ Clear the breakpoint at the listed index:
 Clear all breakpoints:
 
     hphpd> [b]reak [c]lear
+
+## Debugging
