@@ -50,3 +50,7 @@ Clear all breakpoints:
     hphpd> [b]reak [c]lear
 
 ## Debugging
+
+Run the debugger until it hits the breakpoints:
+
+    hphpd> [r]un
