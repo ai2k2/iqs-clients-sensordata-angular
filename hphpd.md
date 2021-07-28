@@ -56,3 +56,5 @@ Run the debugger until it hits the breakpoints:
     hphpd> [r]un
 
 See where you are in the call stack:
+
+    hphpd> [w]here
