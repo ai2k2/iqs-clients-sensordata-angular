@@ -62,3 +62,9 @@ See where you are in the call stack:
 Continue:
 
     hphpd> [c]ontinue
+
+Step over:
+
+    hphpd> [n]ext
+
+Step into:
