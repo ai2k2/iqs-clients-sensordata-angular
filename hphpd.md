@@ -68,3 +68,5 @@ Step over:
     hphpd> [n]ext
 
 Step into:
+
+    hphpd> [s]tep
