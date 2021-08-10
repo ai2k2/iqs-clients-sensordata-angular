@@ -70,3 +70,7 @@ Step over:
 Step into:
 
     hphpd> [s]tep
+
+Step out:
+
+    hphpd> [o]ut
