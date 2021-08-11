@@ -74,3 +74,5 @@ Step into:
 Step out:
 
     hphpd> [o]ut
+
+Print local variables:
