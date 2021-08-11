@@ -78,3 +78,5 @@ Step out:
 Print local variables:
 
     hphpd> [v]ariable
+
+Print a specific variable:
