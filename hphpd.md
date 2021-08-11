@@ -76,3 +76,5 @@ Step out:
     hphpd> [o]ut
 
 Print local variables:
+
+    hphpd> [v]ariable
