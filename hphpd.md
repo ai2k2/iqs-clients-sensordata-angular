@@ -80,3 +80,5 @@ Print local variables:
     hphpd> [v]ariable
 
 Print a specific variable:
+
+    hphpd> [p]rint $foo
