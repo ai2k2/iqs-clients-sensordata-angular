@@ -84,3 +84,5 @@ Print a specific variable:
     hphpd> [p]rint $foo
 
 Change a variable:
+
+    hphpd> $foo = 'foobar'
