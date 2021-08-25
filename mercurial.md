@@ -9,3 +9,5 @@ Create repo:
 Clone repo:
 
     $ hg clone project-repo project-local
+
+See revision currently checked out:
