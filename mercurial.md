@@ -17,3 +17,5 @@ See revision currently checked out:
 View summary of every 'commit' (called a changeset in Hg):
 
     $ hg log [-v]
+
+See what changes are going into the commit:
