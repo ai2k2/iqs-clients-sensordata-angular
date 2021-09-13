@@ -31,3 +31,5 @@ Discard changes:
     $ hg revert foo.txt
 
 Commit the changes:
+
+    $ hg commit
