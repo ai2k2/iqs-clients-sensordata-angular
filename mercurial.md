@@ -25,3 +25,7 @@ See what changes are going into the commit:
 See the actual changes:
 
     $ hg diff
+
+Discard changes:
+
+    $ hg revert foo.txt
