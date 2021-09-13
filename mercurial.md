@@ -29,3 +29,5 @@ See the actual changes:
 Discard changes:
 
     $ hg revert foo.txt
+
+Commit the changes:
