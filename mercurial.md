@@ -33,3 +33,5 @@ Discard changes:
 Commit the changes:
 
     $ hg commit
+
+Push the changes to the remote repository:
