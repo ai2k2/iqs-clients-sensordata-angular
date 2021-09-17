@@ -37,3 +37,5 @@ Commit the changes:
 Push the changes to the remote repository:
 
     $ hg push
+
+Pull all changes in remote repository not yet in the local working directory:
