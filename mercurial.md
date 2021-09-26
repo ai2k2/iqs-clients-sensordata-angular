@@ -45,3 +45,5 @@ Pull all changes in remote repository not yet in the local working directory:
 Update the working directory with the newly pulled contents:
 
     $ hg update
+
+Merge changes:
