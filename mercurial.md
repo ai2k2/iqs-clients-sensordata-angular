@@ -51,3 +51,7 @@ Merge changes:
     $ hg merge
 
 Let Hg know we resolved a conflict:
+
+    $ hg resolve
+
+List available bookmarks:
