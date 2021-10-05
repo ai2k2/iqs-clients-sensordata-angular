@@ -47,3 +47,7 @@ Update the working directory with the newly pulled contents:
     $ hg update
 
 Merge changes:
+
+    $ hg merge
+
+Let Hg know we resolved a conflict:
