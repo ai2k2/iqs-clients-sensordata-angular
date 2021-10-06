@@ -55,3 +55,5 @@ Let Hg know we resolved a conflict:
     $ hg resolve
 
 List available bookmarks:
+
+    $ hg bookmarks
