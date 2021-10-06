@@ -65,3 +65,5 @@ Create a bookmark:
 Switch to a bookmark:
 
     $ hg bookmarks my-other-feature
+
+Rename a bookmark
