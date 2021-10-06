@@ -57,3 +57,7 @@ Let Hg know we resolved a conflict:
 List available bookmarks:
 
     $ hg bookmarks
+
+Create a bookmark:
+
+    $ hg bookmarks my-feature
