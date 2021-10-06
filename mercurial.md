@@ -61,3 +61,7 @@ List available bookmarks:
 Create a bookmark:
 
     $ hg bookmarks my-feature
+
+Switch to a bookmark:
+
+    $ hg bookmarks my-other-feature
