@@ -67,3 +67,9 @@ Switch to a bookmark:
     $ hg bookmarks my-other-feature
 
 Rename a bookmark
+
+    $ hg bookmark --rename old-name new-name
+
+Delete a bookmark
+
+    $ hg bookmark completed-feature
