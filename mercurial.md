@@ -73,3 +73,7 @@ Rename a bookmark
 Delete a bookmark
 
     $ hg bookmark completed-feature
+
+## Cheat sheets
+
+* [Reference 1](https://www.mercurial-scm.org/wiki/QuickReferenceCardsAndCheatSheets?action=AttachFile&do=view&target=Mercurial-Usage-v1.0bz-300dpi-color.png)
