@@ -11,3 +11,5 @@ HHVM is a virtual machine that runs programs written in Hack and PHP:
 ## Nuclide
 
 Nuclide is an Atom package to run Hack projects:
+
+    $ brew cask install atom
