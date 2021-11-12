@@ -21,3 +21,5 @@ Under `Atom -> Preferences -> Settings -> Install Packages`, search for and inst
 ### Install Nuclide packages
 
 Under `Packages -> Settings View -> Manage Packages -> Settings` enable `Install Recommended Packages on Startup`, then restart Atom.
+
+#### Watchman
