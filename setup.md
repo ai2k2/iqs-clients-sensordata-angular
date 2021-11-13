@@ -25,3 +25,8 @@ Under `Packages -> Settings View -> Manage Packages -> Settings` enable `Install
 #### Watchman
 
 Nuclide uses Watchman to detect file and folder changes:
+
+    $ brew update
+    $ brew install watchman
+
+### Nuclide shortcuts
