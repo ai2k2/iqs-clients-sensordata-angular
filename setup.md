@@ -39,3 +39,6 @@ Nuclide uses Watchman to detect file and folder changes:
 Create a `HelloWorld.php` file with the following contents:
 
 ```
+<?hh
+echo "Hello World!";
+```
