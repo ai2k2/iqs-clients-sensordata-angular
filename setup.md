@@ -44,3 +44,5 @@ echo "Hello World!";
 ```
 
 ## Set up the type checker
+
+The type checker `hh_client` looks for the file `.hhconfig` as the root of your repo:
