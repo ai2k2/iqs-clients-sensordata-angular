@@ -42,3 +42,5 @@ Create a `HelloWorld.php` file with the following contents:
 <?hh
 echo "Hello World!";
 ```
+
+## Set up the type checker
