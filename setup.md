@@ -54,3 +54,5 @@ Check for errors:
     $ hh_client
 
 ## Start up HHVM in command line mode
+
+    $ hhvm /path/to/HelloWorld.php "Hello World"
