@@ -48,3 +48,9 @@ echo "Hello World!";
 The type checker `hh_client` looks for the file `.hhconfig` as the root of your repo:
 
     $ touch .hhconfig
+
+Check for errors:
+
+    $ hh_client
+
+## Start up HHVM in command line mode
