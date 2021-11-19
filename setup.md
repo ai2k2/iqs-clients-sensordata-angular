@@ -58,3 +58,7 @@ Check for errors:
     $ hhvm /path/to/HelloWorld.php "Hello World"
 
 ## Start up HHVM in server mode
+
+Start HHVM in HHTP server mode and use port 8080.  Run the following then navigate to http://localhost:8080/HelloWorld.php:
+
+    $ hhvm -m server -p 8080
