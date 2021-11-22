@@ -64,3 +64,5 @@ Start HHVM in HHTP server mode and use port 8080.  Run the following then naviga
     $ hhvm -m server -p 8080
 
 ## PHPUnit
+
+### Install PHPUnit
