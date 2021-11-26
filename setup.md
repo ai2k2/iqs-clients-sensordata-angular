@@ -70,3 +70,5 @@ Start HHVM in HHTP server mode and use port 8080.  Run the following then naviga
 Run the following commands:
 
     $ wget https://phar.phpunit.de/phpunit.phar
+    $ chmod +x phpunit.phar
+    $ sudo mv phpunit.phar /usr/local/bin/phpunit
