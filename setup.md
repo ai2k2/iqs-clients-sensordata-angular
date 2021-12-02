@@ -75,3 +75,5 @@ Run the following commands:
     $ phpunit --version
 
 ### Run tests
+
+    $ phpunit --bootstrap path/to/HelloWorld.php path/to/HelloWorldTestCase.php
