@@ -73,3 +73,5 @@ Run the following commands:
     $ chmod +x phpunit.phar
     $ sudo mv phpunit.phar /usr/local/bin/phpunit
     $ phpunit --version
+
+### Run tests
