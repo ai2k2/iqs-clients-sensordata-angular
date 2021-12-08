@@ -1,3 +1,3 @@
 <?hh
 
-fu
+func
