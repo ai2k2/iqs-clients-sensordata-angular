@@ -1,3 +1,3 @@
 <?hh
 
-func
+function 
