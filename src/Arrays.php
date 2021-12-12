@@ -1,3 +1,3 @@
 <?hh
 
-function exerciseV
+function exerciseVec
