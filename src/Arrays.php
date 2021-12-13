@@ -1,3 +1,3 @@
 <?hh
 
-function exerciseVec(): v
+function exerciseVec(): voi
