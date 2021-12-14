@@ -1,3 +1,4 @@
 <?hh
 
 function exerciseVec(): void {
+  
