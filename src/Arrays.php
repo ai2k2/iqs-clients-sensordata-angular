@@ -1,4 +1,4 @@
 <?hh
 
 function exerciseVec(): void {
-  $v = vec['foo', 
+  $v = vec['foo', 'bar
