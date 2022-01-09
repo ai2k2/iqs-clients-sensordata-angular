@@ -3,4 +3,4 @@
 function exerciseVec(): void {
   $v = vec['foo', 'barr', 2];
   $v[] = 'bazzz';
-  echo var_d
+  echo var_dum
