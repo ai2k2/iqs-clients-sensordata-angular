@@ -5,3 +5,5 @@ function exerciseVec(): void {
   $v[] = 'bazzz';
   echo var_dump($v);
 }
+
+func
