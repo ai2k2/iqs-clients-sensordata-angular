@@ -6,4 +6,4 @@ function exerciseVec(): void {
   echo var_dump($v);
 }
 
-func
+functio
