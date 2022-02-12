@@ -7,4 +7,4 @@ function exerciseVec(): void {
 }
 
 function exerciseDict(): void {
-  $d = dict['foo' => 'ba
+  $d = dict['foo' => 'bar']
