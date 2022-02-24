@@ -8,4 +8,4 @@ function exerciseVec(): void {
 
 function exerciseDict(): void {
   $d = dict['foo' => 'bar'];
-  $d['baz'] 
+  $d['baz'] = 
