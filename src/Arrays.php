@@ -9,4 +9,4 @@ function exerciseVec(): void {
 function exerciseDict(): void {
   $d = dict['foo' => 'bar'];
   $d['baz'] = 0;
-  echo var_dump
+  echo var_dump(
