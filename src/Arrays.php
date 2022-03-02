@@ -11,3 +11,5 @@ function exerciseDict(): void {
   $d['baz'] = 0;
   echo var_dump($d);
 }
+
+fun
