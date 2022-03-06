@@ -12,4 +12,4 @@ function exerciseDict(): void {
   echo var_dump($d);
 }
 
-function 
+function exe
