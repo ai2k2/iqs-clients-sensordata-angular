@@ -12,4 +12,5 @@ function exerciseDict(): void {
   echo var_dump($d);
 }
 
-function exerciseKeySet(): voi
+function exerciseKeySet(): void {
+  
