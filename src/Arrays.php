@@ -14,4 +14,5 @@ function exerciseDict(): void {
 
 function exerciseKeySet(): void {
   $k = keyset['foo', 0];
-  $k[] = 'bar'
+  $k[] = 'bar';
+  e
