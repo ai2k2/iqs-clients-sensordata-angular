@@ -15,4 +15,4 @@ function exerciseDict(): void {
 function exerciseKeySet(): void {
   $k = keyset['foo', 0];
   $k[] = 'bar';
-  echo var_dum
+  echo var_dump
