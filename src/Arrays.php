@@ -17,3 +17,5 @@ function exerciseKeySet(): void {
   $k[] = 'bar';
   echo var_dump($k);
 }
+
+fun
