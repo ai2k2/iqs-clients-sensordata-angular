@@ -18,4 +18,4 @@ function exerciseKeySet(): void {
   echo var_dump($k);
 }
 
-func
+functi
