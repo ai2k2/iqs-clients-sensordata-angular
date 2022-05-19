@@ -18,4 +18,5 @@ function exerciseKeySet(): void {
   echo var_dump($k);
 }
 
-function mainHackArrays(array<string> $argv): void 
+function mainHackArrays(array<string> $argv): void {
+  
