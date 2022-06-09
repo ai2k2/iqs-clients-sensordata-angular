@@ -19,4 +19,4 @@ function exerciseKeySet(): void {
 }
 
 function mainHackArrays(array<string> $argv): void {
-  exerciseVe
+  exerciseVec(
