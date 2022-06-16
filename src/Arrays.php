@@ -21,3 +21,4 @@ function exerciseKeySet(): void {
 function mainHackArrays(array<string> $argv): void {
   exerciseVec();
   exerciseDict();
+  ex
