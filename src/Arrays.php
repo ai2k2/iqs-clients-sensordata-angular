@@ -22,3 +22,4 @@ function mainHackArrays(array<string> $argv): void {
   exerciseVec();
   exerciseDict();
   exerciseKeySet();
+}
