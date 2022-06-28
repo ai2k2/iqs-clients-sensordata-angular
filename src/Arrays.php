@@ -24,4 +24,4 @@ function mainHackArrays(array<string> $argv): void {
   exerciseKeySet();
 }
 
-mainHackArra
+mainHackArrays
