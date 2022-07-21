@@ -1,3 +1,3 @@
 <?hh
 
-function addExcla
+function addExclama
