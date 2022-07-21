@@ -1,3 +1,3 @@
 <?hh
 
-function addExc
+function addExcla
