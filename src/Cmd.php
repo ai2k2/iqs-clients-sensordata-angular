@@ -1,3 +1,3 @@
 <?hh
 
-function addExclamation(string 
+function addExclamation(string $mes
