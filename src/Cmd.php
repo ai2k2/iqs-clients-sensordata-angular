@@ -1,3 +1,3 @@
 <?hh
 
-function addExclamation(string $message): 
+function addExclamation(string $message): str
