@@ -1,4 +1,4 @@
 <?hh
 
 function addExclamation(string $message): string {
-  return $message
+  return $message."
