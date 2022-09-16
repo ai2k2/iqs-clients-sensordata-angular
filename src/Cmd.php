@@ -4,4 +4,4 @@ function addExclamation(string $message): string {
   return $message."!";
 }
 
-function main(array<string> $ar
+function main(array<string> $argv)
