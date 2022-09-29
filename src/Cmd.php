@@ -5,4 +5,5 @@ function addExclamation(string $message): string {
 }
 
 function main(array<string> $argv): void {
-  echo addExclamation($argv[1])
+  echo addExclamation($argv[1]);
+}
