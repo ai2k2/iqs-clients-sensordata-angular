@@ -1,2 +1,4 @@
 
 <?hh
+
+class Store<T> {
