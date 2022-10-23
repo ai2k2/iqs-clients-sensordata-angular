@@ -7,3 +7,6 @@ class Store<T> {
 
   public function get(): T {
     return $this->data;
+  }
+
+  public function set(T $x): void {
