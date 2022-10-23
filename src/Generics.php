@@ -12,3 +12,7 @@ class Store<T> {
   public function set(T $x): void {
     $this->data = $x;
   }
+}
+
+function mainGenerics(array<string> $argv): Store<string> {
+  $result = new Store($argv[1]);
