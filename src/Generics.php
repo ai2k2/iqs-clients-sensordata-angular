@@ -10,3 +10,5 @@ class Store<T> {
   }
 
   public function set(T $x): void {
+    $this->data = $x;
+  }
