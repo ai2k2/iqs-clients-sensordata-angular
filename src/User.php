@@ -1,2 +1,4 @@
 
 <?hh
+
+final class User {
