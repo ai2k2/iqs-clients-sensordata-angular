@@ -18,3 +18,5 @@ function mainGenerics(array<string> $argv): Store<string> {
   $result = new Store($argv[1]);
   return $result;
 }
+
+mainGenerics($argv);
