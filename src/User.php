@@ -10,3 +10,7 @@ final class User {
   ) {}
 
   public function getName(): string {
+    return $this->name;
+  }
+
+  public function getId(): int {
