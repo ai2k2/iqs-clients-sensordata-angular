@@ -16,3 +16,6 @@ final class User {
   public function getId(): int {
     return $this->id;
   }
+
+  public function getFriendIds(): Vector<int> {
+    return $this->friend_ids;
