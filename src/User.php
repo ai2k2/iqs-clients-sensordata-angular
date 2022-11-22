@@ -19,3 +19,5 @@ final class User {
 
   public function getFriendIds(): Vector<int> {
     return $this->friend_ids;
+  }
+}
