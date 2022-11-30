@@ -26,3 +26,5 @@ function getUserName(?User $user): string {
   if ($user === null) {
     throw new RuntimeException('Invalid user');
   }
+  return $user->getName();
+}
