@@ -21,3 +21,6 @@ final class User {
     return $this->friend_ids;
   }
 }
+
+function getUserName(?User $user): string {
+  if ($user === null) {
