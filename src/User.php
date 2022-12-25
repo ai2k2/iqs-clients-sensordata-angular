@@ -31,3 +31,5 @@ function getUserName(?User $user): string {
 
 function testGetUserName(?User $user): void {
   $name1 = getUserName($user);
+  assert($name1 == 'Foo Bar');
+}
