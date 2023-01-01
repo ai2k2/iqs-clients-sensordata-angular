@@ -10,3 +10,6 @@ final class EmailTestCase extends TestCase {
       Email::class,
       Email::fromString('user@example.com'));
   }
+
+  public function testCannotBeCreatedFromInvalidEmailAddress() {
+    $this->expectException(InvalidArgumentException::class);
