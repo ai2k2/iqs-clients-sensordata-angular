@@ -16,3 +16,7 @@ final class EmailTestCase extends TestCase {
 
     Email::fromString('invalid');
   }
+
+  public function testCanBeUsedAsString() {
+    $this->assertEquals(
+      'user@example.com',
