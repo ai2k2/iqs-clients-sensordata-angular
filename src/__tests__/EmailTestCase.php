@@ -22,3 +22,4 @@ final class EmailTestCase extends TestCase {
       'user@example.com',
       Email::fromString('user@example.com'));
   }
+}
