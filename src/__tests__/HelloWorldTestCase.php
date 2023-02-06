@@ -13,3 +13,5 @@ final class HelloWorldTestCase extends TestCase {
 
   public function testCannotBeCreatedFromInvalidEmailAddress() {
     $this->expectException(InvalidArgumentException::class);
+
+    Email::fromString('invalid');
