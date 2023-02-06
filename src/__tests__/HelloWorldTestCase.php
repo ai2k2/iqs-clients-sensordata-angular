@@ -15,3 +15,7 @@ final class HelloWorldTestCase extends TestCase {
     $this->expectException(InvalidArgumentException::class);
 
     Email::fromString('invalid');
+  }
+
+  public function testCanBeUsedAsString() {
+    $this->assertEquals(
