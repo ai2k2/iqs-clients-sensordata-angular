@@ -19,3 +19,5 @@ final class HelloWorldTestCase extends TestCase {
 
   public function testCanBeUsedAsString() {
     $this->assertEquals(
+      'user@example.com',
+      Email::fromString('user@example.com'));
