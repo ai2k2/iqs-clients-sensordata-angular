@@ -21,3 +21,5 @@ final class HelloWorldTestCase extends TestCase {
     $this->assertEquals(
       'user@example.com',
       Email::fromString('user@example.com'));
+  }
+}
